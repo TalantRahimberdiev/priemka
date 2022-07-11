@@ -1,0 +1,1 @@
+{"c":["pages/fotogallery","webpack"],"r":["pages/admissionCenter"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2FadmissionCenter&absolutePagePath=D%3A%5Cigu%5Csrc%5Cpages%5CadmissionCenter.js!","./src/components/admission/admission_profile.js","./src/components/admission/admission_profile_details.js","./src/pages/admissionCenter.js"]}
